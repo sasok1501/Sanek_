@@ -1,0 +1,193 @@
+*{
+	font-family: bookman old style;
+}
+
+.menu{
+	text-decoration:none;
+	font-size: calc(8*2pt);
+	color: black;
+	font-weight: bold;
+	display: table;
+	margin:0;
+	margin-left: 30px;
+	padding: 10px;
+}
+
+a{
+	width: 100px;
+	height: 100px;
+}
+
+body{
+	margin: 0;
+	background: url(https://funart.pro/uploads/posts/2020-03/1585601979_47-p-stilnie-belie-foni-106.jpg);
+}
+
+.block_verx{
+	margin-left: -20px;
+	position: fixed;
+
+}
+
+.BMW_logo_{
+	background: black;
+	text-align: center;
+	width: 100vw;
+}
+
+.shapka{
+	margin: 0;
+	height: 100px;
+	box-shadow: 0 0 5px;
+
+}
+
+.logo1{
+	width: 90px;
+	height: 90px;
+	margin-top: 5px;
+
+}
+
+a:hover{
+	color: white;
+	background: black;
+	transition: 1s;
+	border-radius: 15px;
+}
+
+p{
+	text-align: center;
+	font-size: 14pt;
+	margin: 0;
+	margin-top: 130px;
+	line-height: 1.5 ;
+}
+
+.glav_text{
+	margin-left: 170px;
+	margin-right: 0px;
+	margin-top: 0px;
+	text-align: center;
+}
+
+.glav_kart1{
+	width: 600px;
+	margin: 0px;
+}
+
+
+header{
+	position: fixed;
+	margin-top: -130px;
+	width: 100px;
+}
+
+.text3{
+	text-align: center;
+	font-size: 14pt;
+	margin: 0;
+	margin-top: 20px;
+	line-height: 1.5 ;
+}
+
+.foto{
+  width: 60px; 
+  height: 60px;
+  align-content: center;
+} 
+.nomer{
+	color: black;
+}
+
+footer{
+	text-align:center;
+	margin-top: 30px;
+	width: 100%;
+	height: 100px
+}
+
+.bwv_p{
+	margin: 10px;
+}
+
+.podval{
+	margin: 0px;
+}
+
+.kart_2{
+	width: auto;
+	height: 700px;
+}
+
+.text23{
+	margin: 0px;
+}
+
+.video{
+	padding: 10px;
+}
+
+.text24{
+	width: calc(1600px/2);
+}
+
+.h2{
+	text-align: center;
+}
+
+.kont_1{
+	width: 500px;
+	padding: 10px;
+}
+
+.forma{
+	background: #212121;
+	width: 400px;
+	height: 400px;
+	border-radius: 15px;
+	margin:0 auto;
+}
+
+.text25{
+	color:	white ;
+	margin: 30px;
+}
+
+
+.but1{
+	width: 100px;
+	height: 50px;
+
+}
+
+.text26{
+	color:	white ;
+	margin: 10px;
+	margin-top: 100px;
+}
+
+.forma1{
+	width: 200px;
+		margin:0 auto;
+			background: #212121;
+				border-radius: 15px;
+}
+
+.pole{
+	padding: 10px;
+}	
+
+.last_kart{
+margin-left: auto;
+    margin-right: auto;
+    width: 40%
+}
+
+.last_text{
+	margin: 10px;
+}
+
+.sert{
+	width: 400px;
+}
